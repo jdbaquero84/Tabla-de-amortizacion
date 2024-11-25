@@ -1,9 +1,9 @@
 # Tabla de amortización
 
 <div align="center">
-    <img src="https://github.com/jdbaquero84/Tabla-de-amortizacion/blob/main/imagen1.png" alt="Imagen 1" width="400"/>
-    <img src="https://github.com/jdbaquero84/Tabla-de-amortizacion/blob/main/imagen2.jpg" alt="Imagen 2" width="400"/>
-    <img src="https://github.com/jdbaquero84/Tabla-de-amortizacion/blob/main/imagen3.jpg" alt="Imagen 3" width="400"/>
+    <img src="https://github.com/jdbaquero84/Tabla-de-amortizacion/blob/main/imagen1.png" alt="Imagen 1" width="200"/>
+    <img src="https://github.com/jdbaquero84/Tabla-de-amortizacion/blob/main/imagen2.jpg" alt="Imagen 2" width="200"/>
+    <img src="https://github.com/jdbaquero84/Tabla-de-amortizacion/blob/main/imagen3.jpg" alt="Imagen 3" width="200"/>
 </div>
 
 ## Resumen
