@@ -10,6 +10,12 @@
 
 Una tabla de amortización es una herramienta financiera que detalla el calendario de pagos de un préstamo a lo largo de su vida útil. Desglosa cada pago en componentes de interés y principal, permitiendo a los prestatarios y prestamistas entender cómo se aplica cada pago al saldo del préstamo.
 
+## Tecnologías Utilizadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ### Utilidad en el Mundo de las Finanzas
 
 En el mundo de las finanzas, las tablas de amortización son esenciales para gestionar y planificar pagos de deudas. Ofrecen una visión clara de cómo los pagos reducen el principal del préstamo y cuánto se destina a intereses a lo largo del tiempo. Esto es crucial para la gestión de efectivo, planificación financiera y toma de decisiones informadas sobre refinanciamiento y pagos anticipados.
